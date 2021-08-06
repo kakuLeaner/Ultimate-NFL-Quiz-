@@ -1,8 +1,7 @@
 # #!/usr/bin/env python
-# FILE:2252_Final_InLab.py 
 # NAME: Questionaiare Generator
-# AUTHOR: Patrick Kakungulu
-# DATE: 08/5/2021
+# AUTHOR: Kakungulu, P
+# DATE: 08/6/2021
 # PURPOSE: Program will assess the user knowledge about the NFL. 
 
 lineBreak = "*"*60
@@ -128,7 +127,7 @@ while True:
         print('Thanks for playing!')
         break
 print(lineBreak, '\n')
-print('I hope you are on your way done with the home remodeling projects and thank you for a wonderful semester', end ='')
+print('Thanks for reading my code all feedback is welcome', end ='')
 print(' God Bless you and your loved ones!')
             
     
